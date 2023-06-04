@@ -1,4 +1,4 @@
 # PythonPractice
 A showcase of my python projects
 
-Use an IDE to run and test code. 
+Export the code to a separate file with the .py type the open with an IDE to run and test code. 
